@@ -9,7 +9,7 @@ https://shimmering-gnome-ea8783.netlify.app/
 
 ## Description
 
-The idea of this project was practise create a responsive website only using HTML and CSS
+The idea of this project was practise creating a responsive website only using HTML and CSS
 
 ## Getting Started
 
